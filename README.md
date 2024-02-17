@@ -6,6 +6,6 @@ Simple demo to showcase the new [Astro View Transitions](https://docs.astro.buil
 
 Based on [About Minimalist shop in Astro with View Transitions](https://github.com/igorm84/astro-shop) by [Igor M. Penaque](https://github.com/igorm84)
 
-#### Firefox and iOS Browsers
+## Technologies Used
 
-Unfornatelly those browsers aren't compatible yet, see https://developer.mozilla.org/en-US/docs/Web/API/View_Transitions_API#browser_compatibility
+Astro.js (3+ for View Transitions API support) and Tailwind css
